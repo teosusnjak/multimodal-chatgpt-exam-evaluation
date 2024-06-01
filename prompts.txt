@@ -1,0 +1,130 @@
+PROMPT FOR GENERATING EXAM QUESTIONS
+========================================
+
+Pretend that you are an expert university educator in the field of <Humanities> and specifically in teaching <Communications> across all year-levels at a university. You are also an expert as setting exams for this field and are particularly competent at setting suitable exam questions that involve answering questions and providing interpretations of images, graphs, figures, diagrams, tables and charts.
+
+Your task is to generate 25 example university question from the above field and across all year-levels that describe the images, graphs, figures, tables, diagrams and charts on which the questions are based.
+
+Here is an example of some exam questions. Use these as an example but expand on the kind of question that would be asked based on the visualization.
+
+Advanced bar graph of multi-century demographic trends**, integrating urban-rural dynamics with economic and technological developments.
+Complex line graph of diurnal and seasonal temperature fluctuations** across biomes, with interactive climatic event markers.
+Detailed pie chart of global energy consumption**, differentiating between renewable sources and non-renewable types, with historical growth rates.
+Multivariate scatter plot linking cognitive performance to sleep patterns**, differentiated by age, lifestyle, and environmental factors.
+Comprehensive flowchart of cellular respiration**, showing detailed biochemical pathways, enzyme actions, and energy yield comparisons.
+Enhanced Venn diagram of genetic traits, illustrating complex interactions in Mendelian and non-Mendelian inheritance patterns, with epigenetic factors.
+In-depth histogram analysis of statistical data, exploring distribution characteristics, with advanced computations of skewness, kurtosis, and underlying population assumptions.
+Dynamic organizational chart for a global enterprise, showing intricate cross-functional and inter-regional team dynamics, with real-time collaboration flows.
+High-fidelity network diagram for internet protocol routing, displaying a sophisticated distributed network architecture with security protocols and data traffic analysis.
+Detailed schematic of an advanced circuit, featuring resistors, capacitors, inductors, and semiconductor devices, emphasizing circuit behavior under varying conditions.
+Customer Lifetime Value Scatter Plot**: Evaluate a scatter plot comparing customer lifetime value against acquisition cost for different customer segments. Discuss how this analysis can inform targeted marketing and customer retention strategies.
+Organizational Change Management Timeline**: Interpret a timeline outlining the key phases of an organizational change management process. Discuss the challenges and strategies for managing employee transition and buy-in.
+Market Saturation Bar Chart**: Examine a bar chart showing the level of market saturation for different product categories within an industry. Discuss the strategic implications for new product development and market entry.
+Resource Allocation Matrix**: Analyze a matrix illustrating how resources are allocated across various projects in a portfolio. Discuss the impact of this allocation on project outcomes and organizational priorities.
+Investment Portfolio Pie Chart**: Evaluate a pie chart depicting the distribution of investments in a company's portfolio. Discuss how the investment strategy aligns with the company’s risk tolerance and financial goals.
+Product Quality Control Flowchart**: Interpret a flowchart detailing the steps in the quality control process for a manufacturing company. Discuss how each step ensures the product meets industry standards and customer expectations.
+Cross-functional Team Collaboration Network Diagram**: Examine a network diagram showing the interaction among cross-functional teams in a project. Discuss the benefits and challenges of such collaboration for project success.
+E-commerce Conversion Funnel Graph**: Analyze a graph depicting the e-commerce conversion funnel from initial visit to purchase. Discuss the factors that influence conversion rates at each stage.
+Corporate Social Responsibility (CSR) Impact Chart**: Evaluate a chart showing the impact of a company’s CSR initiatives on community welfare and environmental sustainability. Discuss the long-term benefits of these initiatives for the company's brand reputation.
+Operational Risk Heat Map**: Examine a heat map indicating the level of operational risk across different business units. Discuss how this assessment guides risk management and mitigation strategies.
+Brand Equity Evolution Line Graph**: Interpret a line graph showing the evolution of brand equity over time for a leading brand. Discuss the key factors contributing to the growth or decline in brand value.
+Employee Performance and Engagement Scatter Plot**: Analyze a scatter plot linking employee performance metrics with engagement levels. Discuss how this correlation can inform human resource management practices.
+Retail Store Layout Efficiency Map**: Evaluate a map illustrating the efficiency of different layouts in a retail store setting. Discuss how layout design influences customer flow and sales.
+Multi-layered stacked bar chart analyzing a decade of industry evolution**, demonstrating nuanced shifts in consumer behavior and technological impact on market segments.
+Dynamic Gantt chart for a multinational merger and acquisition project**, detailing phase-wise integration tasks, critical dependencies, and strategic realignment checkpoints.
+Interactive treemap of a corporation’s global sales data**, with multi-dimensional analysis of product lines, regional performance, and temporal sales trends.
+Complex Sankey diagram of a smart grid energy distribution system**, showcasing energy conversion, waste management, and renewable integration efficiencies.
+Advanced bubble chart for cross-industry competitive analysis**, correlating market capitalization, innovation index, and customer loyalty metrics, with dynamic time-series adjustments.
+
+Generate 25 new detailed questions on the above field.
+
+
+PROMPT FOR EVALUATING EXAM QUESTIONS
+========================================
+
+Pretend to be an expert at evaluating  GPT-4's multimodal capabilities.
+
+Assess the capability of multimodal GPT-4 with Vision to interpret and answer university-level exam questions based on visualizations like figures, graphs, tables, diagrams, and charts. For each of the following scenarios, evaluate GPT-4's proficiency, accuracy, and capability as a percentage. Consider factors such as the complexity of the visual data, the depth of contextual understanding required, and GPT-4's integration of textual and visual information to provide comprehensive answers.  For each question, assign a percentage score representing GPT-4's accuracy and capability in providing a comprehensive answer. Output the evaluation in JSON format, with each question number mapped to the corresponding proficiency percentage.
+
+Pretend to be an expert at evaluating  GPT-4's multimodal capabilities and based on that evaluate its capability on the following scenarios:
+
+1. **Media Consumption Trends Bar Graph**: Evaluate a bar graph showing the trends in media consumption across different age groups. Discuss how these trends impact communication strategies and content creation.
+
+2. **Digital Communication Evolution Timeline**: Analyze a timeline depicting the evolution of digital communication technologies. Discuss the milestones in technology development and their influence on societal communication patterns.
+
+3. **Social Media Influence Network Diagram**: Examine a network diagram illustrating the influence of various social media platforms on public opinion. Discuss the role of social media in shaping political and social discourse.
+
+4. **Cross-Cultural Communication Barriers Chart**: Evaluate a chart that identifies common barriers to cross-cultural communication. Discuss strategies for overcoming these barriers in global interactions.
+
+5. **Organizational Communication Flowchart**: Interpret a flowchart detailing the communication processes within a large organization. Discuss how effective communication can improve organizational efficiency and employee satisfaction.
+
+6. **Public Relations Impact Pie Chart**: Examine a pie chart showing the impact of different public relations strategies on company reputation. Discuss the effectiveness of various PR campaigns in crisis management.
+
+7. **Advertising Campaigns ROI Scatter Plot**: Analyze a scatter plot comparing the return on investment (ROI) for various advertising campaigns. Discuss how companies measure the effectiveness of advertising and the factors influencing ROI.
+
+8. **Mass Media Effects Line Graph**: Evaluate a line graph illustrating the effects of mass media exposure on public behavior over time. Discuss the theories of media influence and their implications for media consumers.
+
+9. **Non-Verbal Communication Venn Diagram**: Examine a Venn diagram showing the relationship between different types of non-verbal communication. Discuss the importance of non-verbal cues in conveying messages and emotions.
+
+10. **Crisis Communication Strategies Table**: Analyze a table comparing different crisis communication strategies used by organizations. Discuss how these strategies mitigate negative impacts and maintain stakeholder trust.
+
+11. **Global Internet Usage Map**: Evaluate a map displaying global internet usage rates. Discuss the digital divide and its implications for communication in different regions of the world.
+
+12. **Journalism Ethics Flowchart**: Interpret a flowchart that outlines the ethical decision-making process in journalism. Discuss the challenges journalists face in maintaining ethical standards in the digital age.
+
+13. **Political Campaign Messaging Histogram**: Analyze a histogram showing the frequency of different messaging themes in political campaigns. Discuss how campaign messages are tailored to appeal to various voter segments.
+
+14. **Corporate Branding Evolution Timeline**: Evaluate a timeline showing the evolution of corporate branding for a major company. Discuss how branding strategies reflect and influence consumer perceptions and market trends.
+
+15. **Communication Theories Matrix**: Examine a matrix that categorizes communication theories by type and application. Discuss how these theories explain different aspects of communication processes.
+
+16. **Language Diversity in Media Bar Chart**: Analyze a bar chart showing the diversity of languages used in global media outlets. Discuss the impact of language on media reach and audience engagement.
+
+17. **Interpersonal Communication Skills Radar Chart**: Evaluate a radar chart assessing interpersonal communication skills. Discuss the key skills needed for effective personal and professional communication.
+
+18. **Mobile Communication Adoption Curve**: Examine a curve showing the adoption rate of mobile communication technologies. Discuss the factors driving the rapid adoption of mobile devices and their impact on communication.
+
+19. **Multimedia Content Consumption Scatter Plot**: Analyze a scatter plot showing the relationship between age groups and multimedia content consumption. Discuss the preferences for different types of media content across demographics.
+
+20. **Speech Analysis Table**: Evaluate a table analyzing famous speeches based on rhetorical strategies used. Discuss how these strategies are employed to persuade and impact audiences.
+
+21. **Media Literacy Education Flowchart**: Interpret a flowchart depicting the components of media literacy education. Discuss the importance of media literacy in navigating the modern information landscape.
+
+22. **Online Community Engagement Heat Map**: Examine a heat map showing engagement levels in different online communities. Discuss how engagement metrics can inform content strategy and community management.
+
+23. **Virtual Reality in Communication Diagram**: Analyze a diagram illustrating how virtual reality (VR) technology is used in communication. Discuss the potential of VR for immersive storytelling and interactive experiences.
+
+24. **Podcasting Trends Line Graph**: Evaluate a line graph showing the growth trends of podcasting as a medium. Discuss the factors contributing to the rise of podcasting and its influence on audio content consumption.
+
+25. **Influencer Marketing Impact Chart**: Examine a chart showing the impact of influencer marketing on consumer behavior. Discuss how influencers shape brand perceptions and purchasing decisions in various industries.
+
+Your TASK is to output your evaluations as JSON. The JSON output would be structured as follows representing the key (question number) and value (proficiency percentage) pairs:
+
+{
+  "1": 67,
+  "2": 75,
+  "3": 82,
+  ...
+  "50": 88
+}
+
+FOLLOW UP SECONDARY PROMPT
+=================================
+
+Reevaluate your response above for each of the 25 evaluations, and improve your estimate, and next to each output, state precisely what visual, technical, reasoning, cultural, scientific, numerical or other aspects GPT-4 with multimodal capabilities would find difficult. Describe these in an academic fashion that can be used for a paper that analyses GPT-4 capabilities and limitations. 
+
+Place your explanations into the json object for each response as the following example:
+
+{
+  "1": {
+    "proficiency": 70,
+    "analysis": "GPT-4 may struggle with contextual nuances in media consumption trends, such as understanding underlying socio-economic factors that influence these trends across different age groups."
+  },
+  "2": {
+    "proficiency": 65,
+    "analysis": "The model could find it challenging to interpret the historical significance and the causal relationships between milestones in the evolution of digital communication technologies."
+  },
+  ...
+}
+
+Your TASK is to complete the reevaluation for each and every of the 25 scenarios above.
